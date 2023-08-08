@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Viraj</h1>
 <h3 align="center">High school Junior passionate about cybersecurity and computer science</h3>
 
-- 🔭 I’m currently working on **Battle Chess in Java**
-
 - 🌱 I’m currently learning **Neural Networks, Networking & Microcontrollers**
 
 <h3 align="left">Connect with me:</h3>
