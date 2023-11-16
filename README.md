@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Viraj</h1>
-<h3 align="center">High school Senior passionate about cybersecurity and computer science</h3>
+<h3 align="center">High School Senior passionate about Cybersecurity and Computer Science</h3>
 
 - 🌱 I’m currently learning **Neural Networks, Networking & Microcontrollers**
 
